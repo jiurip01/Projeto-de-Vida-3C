@@ -16,4 +16,16 @@ font-family: 'chakra petch', sans-serif:
 .conteudo-principal{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: enter;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
 }
+
+.titulo-principal{
+    text-align: left;
+    width: 100%;
+    font-size: 32px;
+}
+
