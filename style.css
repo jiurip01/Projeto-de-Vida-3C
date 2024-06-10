@@ -28,4 +28,18 @@ font-family: 'chakra petch', sans-serif:
     width: 100%;
     font-size: 32px;
 }
+.titulo-principal span {
+    color:var(--verde)
+}
+
+.botao{
+    font-family: "chakra petch", sans-serif;
+    background-color: var(--botão-inativo);
+    color: var(--branco)
+    display: flex;
+    justify-content: 1em;
+    padding: lem;
+    font-size: 18px;
+    aling-items: center;
+}
 
